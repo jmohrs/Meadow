@@ -1,0 +1,27 @@
+{
+  "name": "meadow",
+  "version": "1.0.0",
+  "description": "This is project to test out some stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmohrs/Meadow.git"
+  },
+  "author": "Jonas Mohrs",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jmohrs/Meadow/issues"
+  },
+  "homepage": "https://github.com/jmohrs/Meadow#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {
+    "grunt-cli": "^1.2.0",
+    "mocha": "^2.4.5"
+  }
+}
